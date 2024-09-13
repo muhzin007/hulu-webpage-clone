@@ -1,1 +1,1 @@
-Visit the site at https://muhzin007.github.io/hulu-webpage-clone/
+![alt text](https://github.com/muhzin007/hulu-webpage-clone/blob/main/LandingPageScreenshot.png?raw=true)
